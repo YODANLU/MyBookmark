@@ -1,0 +1,12 @@
+Compared to SMT:
+
+
+NMT is less interpretable 
+Hard to debug
+
+
+NMT is difficult to control	
+For example, can’t easily specify rules or guidelines for translation
+Safety concerns!
+
+SMT is still very much in use!
